@@ -34,7 +34,7 @@ export const Contact = () => {
                     </a>
 
                     <a 
-                      href="tel:+919935801473"
+                      href="tel:+9199********"
                       className="flex items-center gap-3 p-3 rounded-lg hover:bg-primary/10 transition-colors group"
                     >
                       <div className="p-2 rounded-lg bg-primary/10 group-hover:bg-primary/20 transition-colors">
@@ -42,7 +42,7 @@ export const Contact = () => {
                       </div>
                       <div>
                         <p className="text-sm text-muted-foreground">Phone</p>
-                        <p className="font-medium">+91 9935801473</p>
+                        <p className="font-medium">+91 99********</p>
                       </div>
                     </a>
 
@@ -65,7 +65,7 @@ export const Contact = () => {
                   <h3 className="text-2xl font-bold mb-6 gradient-text">Social Media</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://github.com/priyanandshukla"
+                      href="https://github.com/priyanand-shukla"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-between p-4 rounded-lg glass-card hover:bg-primary/10 transition-colors group"

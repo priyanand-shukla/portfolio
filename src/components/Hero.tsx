@@ -55,7 +55,7 @@ export const Hero = () => {
 
           <div className="flex items-center justify-center gap-6">
             <a 
-              href="https://github.com/priyanandshukla" 
+              href="https://github.com/priyanand-shukla" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full glass-card hover:bg-primary/10 transition-colors tech-shadow"
@@ -83,13 +83,13 @@ export const Hero = () => {
         </div>
       </div>
 
-      <button 
+      {/* <button 
         onClick={() => scrollToSection("about")}
         className="absolute bottom-8 left-1/2 -translate-x-1/2 p-2 rounded-full glass-card hover:bg-primary/10 transition-colors animate-bounce"
         aria-label="Scroll to About section"
       >
         <ArrowDown className="h-6 w-6" />
-      </button>
+      </button> */}
     </section>
   );
 };
