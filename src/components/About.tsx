@@ -17,7 +17,7 @@ export const About = () => {
               <h3 className="text-2xl font-bold mb-4 gradient-text">Summary</h3>
               <p className="text-muted-foreground leading-relaxed">
                 Senior Engineer with <span className="text-primary font-semibold">3+ years of experience</span> developing 
-                cloud-native B2B applications using Java, Spring Boot, and React. Expertise in building scalable microservices, 
+                cloud-native applications using Java, Spring Boot, and React. Expertise in building scalable microservices, 
                 applying core design patterns and SOLID principles to ensure modular and maintainable architecture.
               </p>
               <p className="text-muted-foreground leading-relaxed mt-4">
